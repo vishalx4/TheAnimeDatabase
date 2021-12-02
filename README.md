@@ -9,5 +9,5 @@
 - made using ViewModel and LiveData concepts
 
 ## Screenshots
-![ss1](https://user-images.githubusercontent.com/55027190/144417254-449bfcad-a7bf-4655-b586-ce840c8b1e88.png) 
+![ss1new](https://user-images.githubusercontent.com/55027190/144417632-32d45ee2-5dbe-4722-9f4a-846b29e6535b.png)
 ![ss2](https://user-images.githubusercontent.com/55027190/144417305-635afc60-4729-4127-9263-dbd997479194.png)
